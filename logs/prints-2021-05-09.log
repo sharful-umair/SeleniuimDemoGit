@@ -1,0 +1,8 @@
+22:06:12.350 [main] INFO  resources.base - Name field got filled
+22:06:12.469 [main] INFO  resources.base - Clicking on male radio button
+22:06:12.600 [main] INFO  resources.base - Calendar got filled
+22:06:12.751 [main] INFO  resources.base - Address field got filled
+22:06:12.878 [main] INFO  resources.base - City field got filled
+22:06:13.019 [main] INFO  resources.base - State field got filled
+22:06:13.162 [main] INFO  resources.base - Pin field got filled
+22:06:13.302 [main] INFO  resources.base - Phone Number field got filled

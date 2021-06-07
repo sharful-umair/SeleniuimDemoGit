@@ -1,0 +1,9 @@
+21:34:52.199 [main] INFO  resources.base - Url Opened
+21:44:48.523 [main] INFO  resources.base - Browser invoked
+21:44:52.858 [main] INFO  resources.base - Url Opened
+21:45:07.462 [main] INFO  resources.base - Browser closed
+21:45:52.414 [main] INFO  resources.base - Browser invoked
+21:45:57.611 [main] INFO  resources.base - Url Opened
+21:50:48.432 [main] INFO  resources.base - Browser invoked
+21:50:54.379 [main] INFO  resources.base - Url Opened
+21:59:56.797 [main] INFO  resources.base - Browser invoked

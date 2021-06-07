@@ -1,0 +1,9 @@
+21:20:45.687 [main] INFO  resources.base - Url Opened
+21:20:46.242 [main] INFO  resources.base - UserId got entered
+21:20:46.376 [main] INFO  resources.base - Password got entered
+21:20:49.420 [main] INFO  resources.base - Submit got clicked
+21:20:49.515 [main] INFO  resources.base - LogIn Successfully
+21:20:49.706 [main] INFO  resources.base - Browser closed
+21:21:39.533 [main] INFO  resources.base - Browser invoked
+21:21:43.395 [main] INFO  resources.base - Url Opened
+21:21:43.830 [main] INFO  resources.base - UserId got entered

@@ -1,0 +1,9 @@
+pageObjects\LogInPage.class
+pageObjects\EditCustomerPage.class
+resources\base.class
+resources\ExtentReporterNG.class
+pageObjects\CustomerUpdateMsgPage.class
+pageObjects\PasswordInputPage.class
+pageObjects\ManagerHomePage.class
+pageObjects\AddCustomerPage.class
+pageObjects\CustomerRegMsg.class
