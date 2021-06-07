@@ -41,6 +41,7 @@ public class WebLogIn extends base{
     public void verify_user_got_successfully_login() throws Throwable {
     	
     	String id = mp.getManagerId().getText().split(":")[1].trim().split(" ")[0];
+    	System.out.println(id);
 		Assert.assertEquals(id, "mngr332003");
         
     }
